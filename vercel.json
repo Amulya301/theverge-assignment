@@ -12,9 +12,6 @@
     ],
     "routes": [
       { "src": "/(.*)", "dest": "build.py" }
-    ],
-    "env": {
-      "API_KEY": "myapikey"
-    }
+    ]
   }
   
