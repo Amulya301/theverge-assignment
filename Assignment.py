@@ -1,3 +1,5 @@
+import sys
+sys.path.append(".venv\Lib\site-packages")
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
