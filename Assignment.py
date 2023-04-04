@@ -4,6 +4,7 @@ import pandas as pd
 from selenium import webdriver
 import vergedb
 import datetime
+import os
 
 url = 'https://www.theverge.com/'
 response = requests.get(url)
