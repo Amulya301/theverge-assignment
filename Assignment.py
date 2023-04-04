@@ -1,5 +1,5 @@
 import sys
-sys.path.append("D:\python-progs\\theverge-assignment\\.venv\\Lib\\site-packages")
+sys.path.append("D:\\python-progs\\theverge-assignment\\.venv\\Lib\\site-packages")
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
